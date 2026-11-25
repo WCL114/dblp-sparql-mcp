@@ -1,0 +1,77 @@
+{
+ "source": "sparql.dblp.org, 2026-11-25 (probe B3), subset",
+ "rows": [
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "ACM Asia Conference on Computer and Communications Security (AsiaCCS)",
+   "name": "ACM Asia Conference on Computer and Communications Security (AsiaCCS)",
+   "s": "https://dblp.org/streams/conf/asiaccs"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "Annual ACM Conference on Computer and Communications Security (CCS)",
+   "name": "Annual ACM Conference on Computer and Communications Security (CCS)",
+   "s": "https://dblp.org/streams/conf/ccs"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "International Workshop on Cognitive Cellular Systems (CCS)",
+   "name": "International Workshop on Cognitive Cellular Systems (CCS)",
+   "s": "https://dblp.org/streams/conf/ccs2"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "Cloud Computing Security Workshop (CCSW)",
+   "name": "Cloud Computing Security Workshop (CCSW)",
+   "s": "https://dblp.org/streams/conf/ccsw-ws"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "European Symposium on Security and Privacy (EuroS&P)",
+   "name": "European Symposium on Security and Privacy (EuroS&P)",
+   "s": "https://dblp.org/streams/conf/eurosp"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "International Conference on Conceptual Structures (ICCS)",
+   "name": "International Conference on Conceptual Structures (ICCS)",
+   "s": "https://dblp.org/streams/conf/iccs"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "International Conference on Machine Learning (ICML)",
+   "name": "International Conference on Machine Learning (ICML)",
+   "s": "https://dblp.org/streams/conf/icml"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "International Conference on Machine Learning (ICML)",
+   "name": "International Workshop on Machine Learning (ML)",
+   "s": "https://dblp.org/streams/conf/icml"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "International Conference on Machine Learning and Applications (ICMLA)",
+   "name": "International Conference on Machine Learning and Applications (ICMLA)",
+   "s": "https://dblp.org/streams/conf/icmla"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "IEEE Symposium on Security and Privacy (SP)",
+   "name": "IEEE Symposium on Security and Privacy (S&P)",
+   "s": "https://dblp.org/streams/conf/sp"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Conference",
+   "label": "USENIX Security Symposium",
+   "name": "USENIX Security Symposium",
+   "s": "https://dblp.org/streams/conf/uss"
+  },
+  {
+   "kind": "https://dblp.org/rdf/schema#Journal",
+   "label": "Cognitive Computation and Systems",
+   "name": "Cognitive Computation and Systems",
+   "s": "https://dblp.org/streams/journals/ccs"
+  }
+ ]
+}

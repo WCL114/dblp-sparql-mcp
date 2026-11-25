@@ -1,0 +1,3024 @@
+{
+ "source": "sparql.dblp.org, 2026-11-25 (probes A1, D2b); USENIX Security 2024-2025 subset",
+ "candidates": [
+  {
+   "pub": "https://dblp.org/rec/conf/soups/KramerRNBKTW25",
+   "title": "Integrating Large Language Models into Security Incident Response.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/soups/SowonMKMSCFTG25",
+   "title": "Design and Evaluation of Privacy-Preserving Protocols for Agent-Facilitated Mobile Money Services in Kenya.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/soups/SperoSBFBLR25",
+   "title": "Language as Lure: A Naturalistic Study on Pasifika Phishing Susceptibility.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/soups/TolsdorfLKESMA25",
+   "title": "Safety Perceptions of Generative AI Conversational Agents: Uncovering Perceptual Differences in Trust, Risk, and Fairness.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/soups/WangZWHCFH025",
+   "title": "Can You Walk Me Through It? Explainable SMS Phishing Detection using LLM-based Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/000100S025",
+   "title": "On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00010Q00Z025",
+   "title": "From Meme to Threat: On the Hateful Meme Understanding and Induced Hateful Content Generation in Open-Source Vision Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00010Q0Z025",
+   "title": "HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00010S0025",
+   "title": "Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001L000025",
+   "title": "EmbedX: Embedding-Based Cross-Trigger Backdoor Attack Against Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001LHC00025",
+   "title": "Mind the Inconspicuous: Revealing the Hidden Weakness in Aligned LLMs' Refusal Boundaries.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001LYX24",
+   "title": "LLM-Fuzzer: Scaling Assessment of Large Language Model Jailbreaks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001SLLGCZ25",
+   "title": "zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00020B0Q024",
+   "title": "MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00020GCSA0FK0L25",
+   "title": "SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0002GYSL25",
+   "title": "Exploiting Task-Level Vulnerabilities: An Automatic Jailbreak Attack and Defense Benchmarking for LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0002H0GT025",
+   "title": "EchoLLM: LLM-Augmented Acoustic Eavesdropping Attack on Bone Conduction Headphones with mmWave Radar.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0003G00XM0025",
+   "title": "PATCHAGENT: A Practical Program Repair Agent Mimicking Human Expertise.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00050H0LFS00025",
+   "title": "Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AkkusA000ZS25",
+   "title": "Generated Data with Fake Privacy: Hidden Dangers of Fine-tuning Large Language Models on Generated Data.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AsmitaOSTFH24",
+   "title": "Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AyzenshteynWM25",
+   "title": "Cloak, Honey, Trap: Proactive Defenses Against LLM Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Bao0WXLLD25",
+   "title": "Unlocking the Power of Differentially Private Zeroth-order Optimization for Fine-tuning LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/BispingWSL24",
+   "title": "Wireless Signal Injection Attacks on VSAT Satellite Modems.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/BolcskeiSCR25",
+   "title": "Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ChenDC25",
+   "title": "ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ChenPS025",
+   "title": "StruQ: Defending Against Prompt Injection with Structured Queries.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ChenWHAL0LD025",
+   "title": "Beyond Exploit Scanning: A Functional Change-Driven Approach to Remote Software Version Identification.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ChengM0ZHYMHZL25",
+   "title": "Effective PII Extraction from LLMs through Augmented Few-Shot Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Dong00C0Z25",
+   "title": "Depth Gives a False Sense of Privacy: LLM Internal States Inversion.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Eskandarian24",
+   "title": "Abuse Reporting for Metadata-Hiding Communication Based on Secret Sharing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FabregaBNR25",
+   "title": "Mitigating Injection Attacks against E2EE Applications via View-Based Partitioning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FabregaN0NR24",
+   "title": "Exploiting Leakage in Password Managers via Injection Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FourneBJSSBFA24",
+   "title": "\"These results must be false\": A usability evaluation of constant-time analysis tools.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GaoHGZHLLL25",
+   "title": "I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GongLZRCC0L25",
+   "title": "PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GuoUDO0FVH24",
+   "title": "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/HeLL0025",
+   "title": "PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/HeLLB0LQ0025",
+   "title": "Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/HuLLZQ0025",
+   "title": "Membership Inference Attacks Against Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/JahanshahiE24",
+   "title": "Argus: All your (PHP) Injection-sinks are belong to us.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Jia0K25",
+   "title": "Found in Translation: A Generative Language Modeling Approach to Memory Access Pattern Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/JinCSWZ00DY25",
+   "title": "Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KaurPTFV25",
+   "title": "\"Threat modeling is very formal, it's very technical, and also very hard to do correctly\": Investigating Threat Modeling Practices in Open-Source Software Projects.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KeumSM0S25",
+   "title": "Private Investigator: Extracting Personally Identifiable Information from Large Language Models Using Optimized Prompts.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Kim0KY25",
+   "title": "Logs In, Patches Out: Automated Vulnerability Repair via Tree-of-Thought LLM Analysis.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KimSN0L25",
+   "title": "When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KobayashiNTTM25",
+   "title": "Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KraussDD25",
+   "title": "TwinBreak: Jailbreaking LLM Security Alignments based on Twin Prompts.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KwesiCMN25",
+   "title": "Exploring User Security and Privacy Attitudes and Concerns Toward the Use of General-Purpose LLM Chatbots for Mental Health.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LekssaysMT0K25",
+   "title": "LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiHDLCOLH24",
+   "title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiMCL025",
+   "title": "Rowhammer-Based Trojan Injection: One Bit Flip Is Sufficient for Backdooring DNNs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiW0QWRXD25",
+   "title": "TockOwl: Asynchronous Consensus with Fault and Network Adaptability.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiWXZZG0S24",
+   "title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiYT24",
+   "title": "Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LinCL024",
+   "title": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LinkerB24",
+   "title": "SOAP: A Social Authentication Protocol.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Liu0LDCYYSLZ0025",
+   "title": "Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuJ0G25",
+   "title": "Evaluating LLM-based Personal Information Extraction and Countermeasures.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuJGJG24",
+   "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuZZDM024",
+   "title": "Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LuoG0025",
+   "title": "SNI5GECT: A Practical Approach to Inject aNRchy into 5G NR.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LuoPL0LZ025",
+   "title": "Unsafe LLM-Based Search: Quantitative Analysis and Mitigation of Safety Risks in AI Web Search.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/MaL024",
+   "title": "From One Thousand Pages of Specification to Unveiling Hidden Bugs: Large Language Model Assisted Fuzzing of Matter IoT Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Mankali0RMSK25",
+   "title": "GlitchFHE: Attacking Fully Homomorphic Encryption Using Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/MeeusJRM24",
+   "title": "Did the Neurons Read your Book? Document-level Membership Inference for Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Mitseva024",
+   "title": "Stop, Don't Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/NongY0HC25",
+   "title": "APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/OeschCWDSRWA24",
+   "title": "Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/PapeMES25",
+   "title": "Prompt Obfuscation for Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/PasquiniKA25",
+   "title": "LLMmap: Fingerprinting for Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Qu0025",
+   "title": "Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/RueggeWR25",
+   "title": "Branch Privilege Injection: Compromising Spectre v2 Hardware Mitigations by Exploiting Branch Predictor Race Conditions.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Russinovich0E25",
+   "title": "Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/SchwarzR24",
+   "title": "00SEVen - Re-enabling Virtual Machine Forensics: Introspecting Confidential VMs Using Privileged in-VM Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ShenQ0024",
+   "title": "Prompt Stealing Attacks Against Text-to-Image Generation Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/SongKK0S25",
+   "title": "Refusal Is Not an Option: Unlearning Safety Alignment of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/SpracklenWSMV25",
+   "title": "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Teoh0LLSH025",
+   "title": "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/TseVESZ24",
+   "title": "A Testbed for Operations in the Information Environment.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/VillaMP25",
+   "title": "Exposing the Guardrails: Reverse-Engineering and Jailbreaking Safety Filters in DALL·E Text-to-Image Pipelines.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wang0SW00TD025",
+   "title": "Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangDCZLXWZZ25",
+   "title": "Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangT0HG024",
+   "title": "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangWJL00L0LR25",
+   "title": "SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangZG025",
+   "title": "TracLLM: A Generic Framework for Attributing Long Context LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WeissAAM24",
+   "title": "What Was Your Prompt? A Remote Keylogging Attack on AI Assistants.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wu00BHS024",
+   "title": "Quantifying Privacy Risks of Prompts in Visual Prompt Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WuTXTB24",
+   "title": "Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/XieR025",
+   "title": "Evaluating Privacy Policies under Modern Privacy Laws At Scale: An LLM-Based Automated Approach.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YanWDHLKH24",
+   "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YangLLMWWGCJ25",
+   "title": "PRSA: Prompt Stealing Attacks against Real-World Prompt Services.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YangYCL25",
+   "title": "Hybrid Language Processor Fuzzing via LLM-Based Constraint Solving.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YeZH00025",
+   "title": "Cross-Modal Prompt Inversion: Unifying Threats to Text and Image Generative AI Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YuLLCXZ24",
+   "title": "Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhanCSS25",
+   "title": "Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00HLK024",
+   "title": "CacheWarp: Software-based Fault Injection using Selective State Reset.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00JZ0S024",
+   "title": "Instruction Backdoor Attacks Against Customized LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhangHNK24",
+   "title": "REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhangLW0025",
+   "title": "Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhangZGHG0Z00025",
+   "title": "JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZohaibZSAHDW25",
+   "title": "Exposing and Circumventing SNI-based QUIC Censorship of the Great Firewall of China.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZouA025",
+   "title": "Password Guessing Using Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZouGW025",
+   "title": "PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/AyatiPCB25",
+   "title": "Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms' \"Typo\" Correction.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/DelvauxMRT24",
+   "title": "Breaking Espressif's ESP32 V3: Program Counter Control with Computed Values using Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/HuberS25",
+   "title": "Be Write Back: An in-depth Study of Fault Injection Effects on FRAM Technology.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/KarlBJ025",
+   "title": "Comma Separated Vulnerabilities: Detecting Formula Injection in the Wild.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/LiuSS25",
+   "title": "GlitchGlück: Enabling Software Vulnerabilities through Guided Hardware Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  }
+ ],
+ "details": [
+  {
+   "pub": "https://dblp.org/rec/conf/soups/KramerRNBKTW25",
+   "title": "Integrating Large Language Models into Security Incident Response.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/soups/SowonMKMSCFTG25",
+   "title": "Design and Evaluation of Privacy-Preserving Protocols for Agent-Facilitated Mobile Money Services in Kenya.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/soups/SperoSBFBLR25",
+   "title": "Language as Lure: A Naturalistic Study on Pasifika Phishing Susceptibility.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/soups/TolsdorfLKESMA25",
+   "title": "Safety Perceptions of Generative AI Conversational Agents: Uncovering Perceptual Differences in Trust, Risk, and Fairness.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/soups/WangZWHCFH025",
+   "title": "Can You Walk Me Through It? Explainable SMS Phishing Detection using LLM-based Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/000100S025",
+   "title": "On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00010Q00Z025",
+   "title": "From Meme to Threat: On the Hateful Meme Understanding and Induced Hateful Content Generation in Open-Source Vision Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00010Q0Z025",
+   "title": "HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00010S0025",
+   "title": "Synthetic Artifact Auditing: Tracing LLM-Generated Synthetic Data Usage in Downstream Applications.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001L000025",
+   "title": "EmbedX: Embedding-Based Cross-Trigger Backdoor Attack Against Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001LHC00025",
+   "title": "Mind the Inconspicuous: Revealing the Hidden Weakness in Aligned LLMs' Refusal Boundaries.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001LYX24",
+   "title": "LLM-Fuzzer: Scaling Assessment of Large Language Model Jailbreaks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-jiahao",
+   "ord": "1",
+   "name": "Jiahao Yu 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001LYX24",
+   "title": "LLM-Fuzzer: Scaling Assessment of Large Language Model Jailbreaks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-jiahao",
+   "ord": "2",
+   "name": "Xingwei Lin"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001LYX24",
+   "title": "LLM-Fuzzer: Scaling Assessment of Large Language Model Jailbreaks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-jiahao",
+   "ord": "3",
+   "name": "Zheng Yu 0003"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001LYX24",
+   "title": "LLM-Fuzzer: Scaling Assessment of Large Language Model Jailbreaks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-jiahao",
+   "ord": "4",
+   "name": "Xinyu Xing 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0001SLLGCZ25",
+   "title": "zkGPT: An Efficient Non-interactive Zero-knowledge Proof Framework for LLM Inference.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00020B0Q024",
+   "title": "MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian",
+   "ord": "6",
+   "name": "Kui Ren 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00020B0Q024",
+   "title": "MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian",
+   "ord": "5",
+   "name": "Zhan Qin"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00020B0Q024",
+   "title": "MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian",
+   "ord": "1",
+   "name": "Tiantian Liu 0007"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00020B0Q024",
+   "title": "MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian",
+   "ord": "4",
+   "name": "Li Lu 0008"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00020B0Q024",
+   "title": "MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian",
+   "ord": "3",
+   "name": "Zhongjie Ba"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00020B0Q024",
+   "title": "MicGuard: A Comprehensive Detection System against Out-of-band Injection Attacks for Different Level Microphone-based Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tiantian",
+   "ord": "2",
+   "name": "Feng Lin 0004"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00020GCSA0FK0L25",
+   "title": "SOFT: Selective Data Obfuscation for Protecting LLM Fine-tuning against Membership Inference Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0002GYSL25",
+   "title": "Exploiting Task-Level Vulnerabilities: An Automatic Jailbreak Attack and Defense Benchmarking for LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0002H0GT025",
+   "title": "EchoLLM: LLM-Augmented Acoustic Eavesdropping Attack on Bone Conduction Headphones with mmWave Radar.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/0003G00XM0025",
+   "title": "PATCHAGENT: A Practical Program Repair Agent Mimicking Human Expertise.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/00050H0LFS00025",
+   "title": "Activation Approximations Can Incur Safety Vulnerabilities in Aligned LLMs: Comprehensive Analysis and Defense.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AkkusA000ZS25",
+   "title": "Generated Data with Fake Privacy: Hidden Dangers of Fine-tuning Large Language Models on Generated Data.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AsmitaOSTFH24",
+   "title": "Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/asmita",
+   "ord": "4",
+   "name": "Ryan Tsang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AsmitaOSTFH24",
+   "title": "Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/asmita",
+   "ord": "5",
+   "name": "Chongzhou Fang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AsmitaOSTFH24",
+   "title": "Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/asmita",
+   "ord": "2",
+   "name": "Yaroslav Oliinyk"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AsmitaOSTFH24",
+   "title": "Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/asmita",
+   "ord": "1",
+   "name": "Asmita 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AsmitaOSTFH24",
+   "title": "Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/asmita",
+   "ord": "3",
+   "name": "Michael Scott"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AsmitaOSTFH24",
+   "title": "Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/asmita",
+   "ord": "6",
+   "name": "Houman Homayoun"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/AyzenshteynWM25",
+   "title": "Cloak, Honey, Trap: Proactive Defenses Against LLM Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Bao0WXLLD25",
+   "title": "Unlocking the Power of Differentially Private Zeroth-order Optimization for Fine-tuning LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/BispingWSL24",
+   "title": "Wireless Signal Injection Attacks on VSAT Satellite Modems.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/bisping",
+   "ord": "4",
+   "name": "Vincent Lenders"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/BispingWSL24",
+   "title": "Wireless Signal Injection Attacks on VSAT Satellite Modems.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/bisping",
+   "ord": "3",
+   "name": "Martin Strohmeier"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/BispingWSL24",
+   "title": "Wireless Signal Injection Attacks on VSAT Satellite Modems.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/bisping",
+   "ord": "2",
+   "name": "Johannes Willbold"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/BispingWSL24",
+   "title": "Wireless Signal Injection Attacks on VSAT Satellite Modems.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/bisping",
+   "ord": "1",
+   "name": "Robin Bisping"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/BolcskeiSCR25",
+   "title": "Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ChenDC25",
+   "title": "ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ChenPS025",
+   "title": "StruQ: Defending Against Prompt Injection with Structured Queries.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ChenWHAL0LD025",
+   "title": "Beyond Exploit Scanning: A Functional Change-Driven Approach to Remote Software Version Identification.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ChengM0ZHYMHZL25",
+   "title": "Effective PII Extraction from LLMs through Augmented Few-Shot Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "1",
+   "name": "Gelei Deng"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "2",
+   "name": "Yi Liu 0069"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "3",
+   "name": "Víctor Mayoral Vilches"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "4",
+   "name": "Peng Liu"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "5",
+   "name": "Yuekang Li"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "6",
+   "name": "Yuan Xu 0033"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "7",
+   "name": "Martin Pinzger 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "8",
+   "name": "Stefan Rass"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "9",
+   "name": "Tianwei Zhang 0004"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/DengLVLLX0R0024",
+   "title": "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/deng",
+   "ord": "10",
+   "name": "Yang Liu 0003"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Dong00C0Z25",
+   "title": "Depth Gives a False Sense of Privacy: LLM Internal States Inversion.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Eskandarian24",
+   "title": "Abuse Reporting for Metadata-Hiding Communication Based on Secret Sharing.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/eskandarian",
+   "ord": "1",
+   "name": "Saba Eskandarian"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FabregaBNR25",
+   "title": "Mitigating Injection Attacks against E2EE Applications via View-Based Partitioning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FabregaN0NR24",
+   "title": "Exploiting Leakage in Password Managers via Injection Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fabrega",
+   "ord": "3",
+   "name": "Rachit Agarwal 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FabregaN0NR24",
+   "title": "Exploiting Leakage in Password Managers via Injection Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fabrega",
+   "ord": "5",
+   "name": "Thomas Ristenpart"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FabregaN0NR24",
+   "title": "Exploiting Leakage in Password Managers via Injection Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fabrega",
+   "ord": "4",
+   "name": "Ben Nassi"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FabregaN0NR24",
+   "title": "Exploiting Leakage in Password Managers via Injection Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fabrega",
+   "ord": "2",
+   "name": "Armin Namavari"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FabregaN0NR24",
+   "title": "Exploiting Leakage in Password Managers via Injection Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fabrega",
+   "ord": "1",
+   "name": "Andrés Fábrega"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "6",
+   "name": "Ruijie Fang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "7",
+   "name": "Asmita 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "8",
+   "name": "Ryan Tsang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "9",
+   "name": "Najmeh Nazari"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "10",
+   "name": "Han Wang 0020"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "11",
+   "name": "Houman Homayoun"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "5",
+   "name": "Ruoyu Zhang 0002"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "4",
+   "name": "Jialin Liu 0006"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "3",
+   "name": "Shaurya Srivastav"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "2",
+   "name": "Ning Miao"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FangMS0ZFATNWH24",
+   "title": "Large Language Models for Code Analysis: Do LLMs Really Do Their Job?",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fang",
+   "ord": "1",
+   "name": "Chongzhou Fang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FourneBJSSBFA24",
+   "title": "\"These results must be false\": A usability evaluation of constant-time analysis tools.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fourne",
+   "ord": "4",
+   "name": "Mohamed Sabt"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FourneBJSSBFA24",
+   "title": "\"These results must be false\": A usability evaluation of constant-time analysis tools.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fourne",
+   "ord": "6",
+   "name": "Gilles Barthe"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FourneBJSSBFA24",
+   "title": "\"These results must be false\": A usability evaluation of constant-time analysis tools.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fourne",
+   "ord": "7",
+   "name": "Pierre-Alain Fouque"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FourneBJSSBFA24",
+   "title": "\"These results must be false\": A usability evaluation of constant-time analysis tools.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fourne",
+   "ord": "8",
+   "name": "Yasemin Acar"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FourneBJSSBFA24",
+   "title": "\"These results must be false\": A usability evaluation of constant-time analysis tools.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fourne",
+   "ord": "5",
+   "name": "Peter Schwabe"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FourneBJSSBFA24",
+   "title": "\"These results must be false\": A usability evaluation of constant-time analysis tools.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fourne",
+   "ord": "1",
+   "name": "Marcel Fourné"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FourneBJSSBFA24",
+   "title": "\"These results must be false\": A usability evaluation of constant-time analysis tools.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fourne",
+   "ord": "2",
+   "name": "Daniel De Almeida Braga"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/FourneBJSSBFA24",
+   "title": "\"These results must be false\": A usability evaluation of constant-time analysis tools.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/fourne",
+   "ord": "3",
+   "name": "Jan Jancar"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GaoHGZHLLL25",
+   "title": "I Know What You Said: Unveiling Hardware Cache Side-Channels in Local Large Language Model Inference.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GongLZRCC0L25",
+   "title": "PAPILLON: Efficient and Stealthy Fuzz Testing-Powered Jailbreaks for LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GuoUDO0FVH24",
+   "title": "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan",
+   "ord": "5",
+   "name": "Ziming Zhao 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GuoUDO0FVH24",
+   "title": "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan",
+   "ord": "6",
+   "name": "Guo Freeman"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GuoUDO0FVH24",
+   "title": "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan",
+   "ord": "7",
+   "name": "Nishant Vishwamitra"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GuoUDO0FVH24",
+   "title": "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan",
+   "ord": "4",
+   "name": "Isabelle Ondracek"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GuoUDO0FVH24",
+   "title": "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan",
+   "ord": "8",
+   "name": "Hongxin Hu"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GuoUDO0FVH24",
+   "title": "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan",
+   "ord": "3",
+   "name": "Wenbo Ding 0003"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GuoUDO0FVH24",
+   "title": "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan",
+   "ord": "2",
+   "name": "Ayush Utkarsh"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/GuoUDO0FVH24",
+   "title": "Moderating Illicit Online Image Promotion for Unsafe User Generated Content Games Using Large Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/guo-keyan",
+   "ord": "1",
+   "name": "Keyan Guo"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/HeLL0025",
+   "title": "PrivacyXray: Detecting Privacy Breaches in LLMs through Semantic Consistency and Probability Certainty.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/HeLLB0LQ0025",
+   "title": "Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/HuLLZQ0025",
+   "title": "Membership Inference Attacks Against Vision-Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/JahanshahiE24",
+   "title": "Argus: All your (PHP) Injection-sinks are belong to us.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/jahanshahi",
+   "ord": "2",
+   "name": "Manuel Egele"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/JahanshahiE24",
+   "title": "Argus: All your (PHP) Injection-sinks are belong to us.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/jahanshahi",
+   "ord": "1",
+   "name": "Rasoul Jahanshahi"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Jia0K25",
+   "title": "Found in Translation: A Generative Language Modeling Approach to Memory Access Pattern Attacks.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/JinCSWZ00DY25",
+   "title": "Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KaurPTFV25",
+   "title": "\"Threat modeling is very formal, it's very technical, and also very hard to do correctly\": Investigating Threat Modeling Practices in Open-Source Software Projects.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KeumSM0S25",
+   "title": "Private Investigator: Extracting Personally Identifiable Information from Large Language Models Using Optimized Prompts.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Kim0KY25",
+   "title": "Logs In, Patches Out: Automated Vulnerability Repair via Tree-of-Thought LLM Analysis.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KimSN0L25",
+   "title": "When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KobayashiNTTM25",
+   "title": "Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KraussDD25",
+   "title": "TwinBreak: Jailbreaking LLM Security Alignments based on Twin Prompts.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/KwesiCMN25",
+   "title": "Exploring User Security and Privacy Attitudes and Concerns Toward the Use of General-Purpose LLM Chatbots for Mental Health.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LekssaysMT0K25",
+   "title": "LLMxCPG: Context-Aware Vulnerability Detection Through Code Property Graph-Guided Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiHDLCOLH24",
+   "title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin",
+   "ord": "4",
+   "name": "Mei Lin Lock"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiHDLCOLH24",
+   "title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin",
+   "ord": "1",
+   "name": "Yuexin Li"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiHDLCOLH24",
+   "title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin",
+   "ord": "2",
+   "name": "Chengyu Huang 0003"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiHDLCOLH24",
+   "title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin",
+   "ord": "3",
+   "name": "Shumin Deng"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiHDLCOLH24",
+   "title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin",
+   "ord": "5",
+   "name": "Tri Cao"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiHDLCOLH24",
+   "title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin",
+   "ord": "6",
+   "name": "Nay Oo"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiHDLCOLH24",
+   "title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin",
+   "ord": "7",
+   "name": "Hoon Wei Lim"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiHDLCOLH24",
+   "title": "KnowPhish: Large Language Models Meet Multimodal Knowledge Graphs for Enhancing Reference-Based Phishing Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-yuexin",
+   "ord": "8",
+   "name": "Bryan Hooi"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiMCL025",
+   "title": "Rowhammer-Based Trojan Injection: One Bit Flip Is Sufficient for Backdooring DNNs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiW0QWRXD25",
+   "title": "TockOwl: Asynchronous Consensus with Fault and Network Adaptability.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiWXZZG0S24",
+   "title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng",
+   "ord": "2",
+   "name": "Xinyu Wang 0004"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiWXZZG0S24",
+   "title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng",
+   "ord": "1",
+   "name": "Shaofeng Li 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiWXZZG0S24",
+   "title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng",
+   "ord": "3",
+   "name": "Minhui Xue 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiWXZZG0S24",
+   "title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng",
+   "ord": "8",
+   "name": "Xuemin (Sherman) Shen"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiWXZZG0S24",
+   "title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng",
+   "ord": "4",
+   "name": "Haojin Zhu"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiWXZZG0S24",
+   "title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng",
+   "ord": "7",
+   "name": "Wen Wu 0003"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiWXZZG0S24",
+   "title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng",
+   "ord": "6",
+   "name": "Yansong Gao 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiWXZZG0S24",
+   "title": "Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-shaofeng",
+   "ord": "5",
+   "name": "Zhi Zhang 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiYT24",
+   "title": "Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-luyi",
+   "ord": "1",
+   "name": "Luyi Li"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiYT24",
+   "title": "Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-luyi",
+   "ord": "2",
+   "name": "Hosein Yavarzadeh"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiYT24",
+   "title": "Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/li-luyi",
+   "ord": "3",
+   "name": "Dean M. Tullsen"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LinCL024",
+   "title": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/lin-zilong",
+   "ord": "1",
+   "name": "Zilong Lin 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LinCL024",
+   "title": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/lin-zilong",
+   "ord": "2",
+   "name": "Jian Cui"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LinCL024",
+   "title": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/lin-zilong",
+   "ord": "3",
+   "name": "Xiaojing Liao"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LinCL024",
+   "title": "Malla: Demystifying Real-world Large Language Model Integrated Malicious Services.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/lin-zilong",
+   "ord": "4",
+   "name": "XiaoFeng Wang 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LinkerB24",
+   "title": "SOAP: A Social Authentication Protocol.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/linker",
+   "ord": "1",
+   "name": "Felix Linker"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LinkerB24",
+   "title": "SOAP: A Social Authentication Protocol.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/linker",
+   "ord": "2",
+   "name": "David A. Basin"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Liu0LDCYYSLZ0025",
+   "title": "Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuJ0G25",
+   "title": "Evaluating LLM-based Personal Information Extraction and Countermeasures.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuJGJG24",
+   "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei",
+   "ord": "1",
+   "name": "Yupei Liu"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuJGJG24",
+   "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei",
+   "ord": "2",
+   "name": "Yuqi Jia 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuJGJG24",
+   "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei",
+   "ord": "3",
+   "name": "Runpeng Geng"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuJGJG24",
+   "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei",
+   "ord": "4",
+   "name": "Jinyuan Jia 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuJGJG24",
+   "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei",
+   "ord": "5",
+   "name": "Neil Zhenqiang Gong"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuZZDM024",
+   "title": "Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tong",
+   "ord": "4",
+   "name": "Yinpeng Dong"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuZZDM024",
+   "title": "Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tong",
+   "ord": "1",
+   "name": "Tong Liu 0027"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuZZDM024",
+   "title": "Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tong",
+   "ord": "2",
+   "name": "Yingjie Zhang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuZZDM024",
+   "title": "Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tong",
+   "ord": "3",
+   "name": "Zhe Zhao 0007"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuZZDM024",
+   "title": "Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tong",
+   "ord": "5",
+   "name": "Guozhu Meng"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LiuZZDM024",
+   "title": "Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-tong",
+   "ord": "6",
+   "name": "Kai Chen 0012"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LuoG0025",
+   "title": "SNI5GECT: A Practical Approach to Inject aNRchy into 5G NR.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/LuoPL0LZ025",
+   "title": "Unsafe LLM-Based Search: Quantitative Analysis and Mitigation of Safety Risks in AI Web Search.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/MaL024",
+   "title": "From One Thousand Pages of Specification to Unveiling Hidden Bugs: Large Language Model Assisted Fuzzing of Matter IoT Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/ma-xiaoyue",
+   "ord": "2",
+   "name": "Lannan Luo"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/MaL024",
+   "title": "From One Thousand Pages of Specification to Unveiling Hidden Bugs: Large Language Model Assisted Fuzzing of Matter IoT Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/ma-xiaoyue",
+   "ord": "1",
+   "name": "Xiaoyue Ma"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/MaL024",
+   "title": "From One Thousand Pages of Specification to Unveiling Hidden Bugs: Large Language Model Assisted Fuzzing of Matter IoT Devices.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/ma-xiaoyue",
+   "ord": "3",
+   "name": "Qiang Zeng 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Mankali0RMSK25",
+   "title": "GlitchFHE: Attacking Fully Homomorphic Encryption Using Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/MeeusJRM24",
+   "title": "Did the Neurons Read your Book? Document-level Membership Inference for Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/meeus",
+   "ord": "1",
+   "name": "Matthieu Meeus"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/MeeusJRM24",
+   "title": "Did the Neurons Read your Book? Document-level Membership Inference for Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/meeus",
+   "ord": "3",
+   "name": "Marek Rei"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/MeeusJRM24",
+   "title": "Did the Neurons Read your Book? Document-level Membership Inference for Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/meeus",
+   "ord": "4",
+   "name": "Yves-Alexandre de Montjoye"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/MeeusJRM24",
+   "title": "Did the Neurons Read your Book? Document-level Membership Inference for Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/meeus",
+   "ord": "2",
+   "name": "Shubham Jain 0006"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Mitseva024",
+   "title": "Stop, Don't Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/mitseva",
+   "ord": "2",
+   "name": "Andriy Panchenko 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Mitseva024",
+   "title": "Stop, Don't Click Here Anymore: Boosting Website Fingerprinting By Considering Sets of Subpages.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/mitseva",
+   "ord": "1",
+   "name": "Asya Mitseva"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/NongY0HC25",
+   "title": "APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/OeschCWDSRWA24",
+   "title": "Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675752",
+   "page": "https://doi.org/10.1145/3675741.3675752",
+   "ord": "1",
+   "name": "Sean Oesch"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/OeschCWDSRWA24",
+   "title": "Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675752",
+   "page": "https://doi.org/10.1145/3675741.3675752",
+   "ord": "2",
+   "name": "Amul Chaulagain"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/OeschCWDSRWA24",
+   "title": "Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675752",
+   "page": "https://doi.org/10.1145/3675741.3675752",
+   "ord": "3",
+   "name": "Brian Weber"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/OeschCWDSRWA24",
+   "title": "Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675752",
+   "page": "https://doi.org/10.1145/3675741.3675752",
+   "ord": "5",
+   "name": "Amir Sadovnik"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/OeschCWDSRWA24",
+   "title": "Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675752",
+   "page": "https://doi.org/10.1145/3675741.3675752",
+   "ord": "6",
+   "name": "Benjamin Roberson"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/OeschCWDSRWA24",
+   "title": "Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675752",
+   "page": "https://doi.org/10.1145/3675741.3675752",
+   "ord": "7",
+   "name": "Cory L. Watson"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/OeschCWDSRWA24",
+   "title": "Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675752",
+   "page": "https://doi.org/10.1145/3675741.3675752",
+   "ord": "8",
+   "name": "Phillipe Austria"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/OeschCWDSRWA24",
+   "title": "Towards a High Fidelity Training Environment for Autonomous Cyber Defense Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675752",
+   "page": "https://doi.org/10.1145/3675741.3675752",
+   "ord": "4",
+   "name": "Matthew Dixson"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/PapeMES25",
+   "title": "Prompt Obfuscation for Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/PasquiniKA25",
+   "title": "LLMmap: Fingerprinting for Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Qu0025",
+   "title": "Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/RueggeWR25",
+   "title": "Branch Privilege Injection: Compromising Spectre v2 Hardware Mitigations by Exploiting Branch Predictor Race Conditions.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Russinovich0E25",
+   "title": "Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/SchwarzR24",
+   "title": "00SEVen - Re-enabling Virtual Machine Forensics: Introspecting Confidential VMs Using Privileged in-VM Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/schwarz",
+   "ord": "1",
+   "name": "Fabian Schwarz"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/SchwarzR24",
+   "title": "00SEVen - Re-enabling Virtual Machine Forensics: Introspecting Confidential VMs Using Privileged in-VM Agents.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/schwarz",
+   "ord": "2",
+   "name": "Christian Rossow"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ShenQ0024",
+   "title": "Prompt Stealing Attacks Against Text-to-Image Generation Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue",
+   "ord": "1",
+   "name": "Xinyue Shen 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ShenQ0024",
+   "title": "Prompt Stealing Attacks Against Text-to-Image Generation Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue",
+   "ord": "2",
+   "name": "Yiting Qu"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ShenQ0024",
+   "title": "Prompt Stealing Attacks Against Text-to-Image Generation Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue",
+   "ord": "3",
+   "name": "Michael Backes 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ShenQ0024",
+   "title": "Prompt Stealing Attacks Against Text-to-Image Generation Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/shen-xinyue",
+   "ord": "4",
+   "name": "Yang Zhang 0016"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/SongKK0S25",
+   "title": "Refusal Is Not an Option: Unlearning Safety Alignment of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/SpracklenWSMV25",
+   "title": "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Teoh0LLSH025",
+   "title": "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/TseVESZ24",
+   "title": "A Testbed for Operations in the Information Environment.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675751",
+   "page": "https://doi.org/10.1145/3675741.3675751",
+   "ord": "1",
+   "name": "Adam Tse"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/TseVESZ24",
+   "title": "A Testbed for Operations in the Information Environment.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675751",
+   "page": "https://doi.org/10.1145/3675741.3675751",
+   "ord": "2",
+   "name": "Swaroop Vattam"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/TseVESZ24",
+   "title": "A Testbed for Operations in the Information Environment.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675751",
+   "page": "https://doi.org/10.1145/3675741.3675751",
+   "ord": "3",
+   "name": "Vincent J. Ercolani"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/TseVESZ24",
+   "title": "A Testbed for Operations in the Information Environment.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675751",
+   "page": "https://doi.org/10.1145/3675741.3675751",
+   "ord": "4",
+   "name": "Douglas Stetson"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/TseVESZ24",
+   "title": "A Testbed for Operations in the Information Environment.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "CSET @ USENIX Security Symposium",
+   "doi": "https://doi.org/10.1145/3675741.3675751",
+   "page": "https://doi.org/10.1145/3675741.3675751",
+   "ord": "5",
+   "name": "Mary Ellen Zurko"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/VillaMP25",
+   "title": "Exposing the Guardrails: Reverse-Engineering and Jailbreaking Safety Filters in DALL·E Text-to-Image Pipelines.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wang0SW00TD025",
+   "title": "Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangDCZLXWZZ25",
+   "title": "Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangT0HG024",
+   "title": "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-zihao-tossing",
+   "ord": "3",
+   "name": "XiaoFeng Wang 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangT0HG024",
+   "title": "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-zihao-tossing",
+   "ord": "6",
+   "name": "Wenhao Wang 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangT0HG024",
+   "title": "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-zihao-tossing",
+   "ord": "5",
+   "name": "Zhaoyang Geng"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangT0HG024",
+   "title": "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-zihao-tossing",
+   "ord": "4",
+   "name": "Wei He"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangT0HG024",
+   "title": "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-zihao-tossing",
+   "ord": "1",
+   "name": "Zihao Wang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangT0HG024",
+   "title": "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wang-zihao-tossing",
+   "ord": "2",
+   "name": "Di Tang 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangWJL00L0LR25",
+   "title": "SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WangZG025",
+   "title": "TracLLM: A Generic Framework for Attributing Long Context LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WeissAAM24",
+   "title": "What Was Your Prompt? A Remote Keylogging Attack on AI Assistants.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/weiss",
+   "ord": "1",
+   "name": "Roy Weiss"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WeissAAM24",
+   "title": "What Was Your Prompt? A Remote Keylogging Attack on AI Assistants.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/weiss",
+   "ord": "4",
+   "name": "Yisroel Mirsky"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WeissAAM24",
+   "title": "What Was Your Prompt? A Remote Keylogging Attack on AI Assistants.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/weiss",
+   "ord": "3",
+   "name": "Guy Amit"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WeissAAM24",
+   "title": "What Was Your Prompt? A Remote Keylogging Attack on AI Assistants.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/weiss",
+   "ord": "2",
+   "name": "Daniel Ayzenshteyn"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wu00BHS024",
+   "title": "Quantifying Privacy Risks of Prompts in Visual Prompt Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-yixin",
+   "ord": "3",
+   "name": "Michael Backes 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wu00BHS024",
+   "title": "Quantifying Privacy Risks of Prompts in Visual Prompt Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-yixin",
+   "ord": "7",
+   "name": "Yang Zhang 0016"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wu00BHS024",
+   "title": "Quantifying Privacy Risks of Prompts in Visual Prompt Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-yixin",
+   "ord": "6",
+   "name": "Yun Shen"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wu00BHS024",
+   "title": "Quantifying Privacy Risks of Prompts in Visual Prompt Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-yixin",
+   "ord": "1",
+   "name": "Yixin Wu 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wu00BHS024",
+   "title": "Quantifying Privacy Risks of Prompts in Visual Prompt Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-yixin",
+   "ord": "5",
+   "name": "Mathias Humbert"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wu00BHS024",
+   "title": "Quantifying Privacy Risks of Prompts in Visual Prompt Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-yixin",
+   "ord": "4",
+   "name": "Pascal Berrang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Wu00BHS024",
+   "title": "Quantifying Privacy Risks of Prompts in Visual Prompt Learning.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-yixin",
+   "ord": "2",
+   "name": "Rui Wen 0002"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WuTXTB24",
+   "title": "Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-jianliang",
+   "ord": "2",
+   "name": "Patrick Traynor"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WuTXTB24",
+   "title": "Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-jianliang",
+   "ord": "5",
+   "name": "Antonio Bianchi"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WuTXTB24",
+   "title": "Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-jianliang",
+   "ord": "4",
+   "name": "Dave (Jing) Tian"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WuTXTB24",
+   "title": "Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-jianliang",
+   "ord": "3",
+   "name": "Dongyan Xu"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/WuTXTB24",
+   "title": "Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/wu-jianliang",
+   "ord": "1",
+   "name": "Jianliang Wu 0002"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/XieR025",
+   "title": "Evaluating Privacy Policies under Modern Privacy Laws At Scale: An LLM-Based Automated Approach.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YanWDHLKH24",
+   "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+   "ord": "4",
+   "name": "Hanbin Hong"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YanWDHLKH24",
+   "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+   "ord": "1",
+   "name": "Shenao Yan"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YanWDHLKH24",
+   "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+   "ord": "2",
+   "name": "Shen Wang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YanWDHLKH24",
+   "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+   "ord": "3",
+   "name": "Yue Duan"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YanWDHLKH24",
+   "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+   "ord": "6",
+   "name": "Doowon Kim"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YanWDHLKH24",
+   "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+   "ord": "5",
+   "name": "Kiho Lee"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YanWDHLKH24",
+   "title": "An LLM-Assisted Easy-to-Trigger Backdoor Attack on Code Completion Models: Injecting Disguised Vulnerabilities against Strong Detection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yan",
+   "ord": "7",
+   "name": "Yuan Hong 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YangLLMWWGCJ25",
+   "title": "PRSA: Prompt Stealing Attacks against Real-World Prompt Services.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YangYCL25",
+   "title": "Hybrid Language Processor Fuzzing via LLM-Based Constraint Solving.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YeZH00025",
+   "title": "Cross-Modal Prompt Inversion: Unifying Threats to Text and Image Generative AI Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YuLLCXZ24",
+   "title": "Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan",
+   "ord": "1",
+   "name": "Zhiyuan Yu 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YuLLCXZ24",
+   "title": "Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan",
+   "ord": "6",
+   "name": "Ning Zhang 0017"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YuLLCXZ24",
+   "title": "Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan",
+   "ord": "5",
+   "name": "Chaowei Xiao"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YuLLCXZ24",
+   "title": "Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan",
+   "ord": "2",
+   "name": "Xiaogeng Liu"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YuLLCXZ24",
+   "title": "Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan",
+   "ord": "3",
+   "name": "Shunning Liang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/YuLLCXZ24",
+   "title": "Don't Listen To Me: Understanding and Exploring Jailbreak Prompts of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/yu-zhiyuan",
+   "ord": "4",
+   "name": "Zach Cameron"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhanCSS25",
+   "title": "Malicious LLM-Based Conversational AI Makes Users Reveal Personal Information.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00HLK024",
+   "title": "CacheWarp: Software-based Fault Injection using Selective State Reset.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruiyi",
+   "ord": "7",
+   "name": "Michael Schwarz 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00HLK024",
+   "title": "CacheWarp: Software-based Fault Injection using Selective State Reset.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruiyi",
+   "ord": "6",
+   "name": "Andreas Kogler"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00HLK024",
+   "title": "CacheWarp: Software-based Fault Injection using Selective State Reset.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruiyi",
+   "ord": "5",
+   "name": "Youheng Lü"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00HLK024",
+   "title": "CacheWarp: Software-based Fault Injection using Selective State Reset.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruiyi",
+   "ord": "4",
+   "name": "Lorenz Hetterich"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00HLK024",
+   "title": "CacheWarp: Software-based Fault Injection using Selective State Reset.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruiyi",
+   "ord": "3",
+   "name": "Daniel Weber 0007"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00HLK024",
+   "title": "CacheWarp: Software-based Fault Injection using Selective State Reset.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruiyi",
+   "ord": "2",
+   "name": "Lukas Gerlach 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00HLK024",
+   "title": "CacheWarp: Software-based Fault Injection using Selective State Reset.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruiyi",
+   "ord": "1",
+   "name": "Ruiyi Zhang 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00JZ0S024",
+   "title": "Instruction Backdoor Attacks Against Customized LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-rui",
+   "ord": "1",
+   "name": "Rui Zhang 0086"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00JZ0S024",
+   "title": "Instruction Backdoor Attacks Against Customized LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-rui",
+   "ord": "7",
+   "name": "Yun Shen"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00JZ0S024",
+   "title": "Instruction Backdoor Attacks Against Customized LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-rui",
+   "ord": "6",
+   "name": "Michael Backes 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00JZ0S024",
+   "title": "Instruction Backdoor Attacks Against Customized LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-rui",
+   "ord": "5",
+   "name": "Yuan Zhang 0006"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00JZ0S024",
+   "title": "Instruction Backdoor Attacks Against Customized LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-rui",
+   "ord": "2",
+   "name": "Hongwei Li 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00JZ0S024",
+   "title": "Instruction Backdoor Attacks Against Customized LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-rui",
+   "ord": "3",
+   "name": "Rui Wen 0002"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00JZ0S024",
+   "title": "Instruction Backdoor Attacks Against Customized LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-rui",
+   "ord": "4",
+   "name": "Wenbo Jiang 0001"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/Zhang00JZ0S024",
+   "title": "Instruction Backdoor Attacks Against Customized LLMs.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-rui",
+   "ord": "8",
+   "name": "Yang Zhang 0016"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhangHNK24",
+   "title": "REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruisi",
+   "ord": "4",
+   "name": "Farinaz Koushanfar"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhangHNK24",
+   "title": "REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruisi",
+   "ord": "3",
+   "name": "Paarth Neekhara"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhangHNK24",
+   "title": "REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruisi",
+   "ord": "2",
+   "name": "Shehzeen Samarah Hussain"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhangHNK24",
+   "title": "REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-ruisi",
+   "ord": "1",
+   "name": "Ruisi Zhang"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhangLW0025",
+   "title": "Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZhangZGHG0Z00025",
+   "title": "JBShield: Defending Large Language Models from Jailbreak Attacks through Activated Concept Analysis and Manipulation.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZohaibZSAHDW25",
+   "title": "Exposing and Circumventing SNI-based QUIC Censorship of the Great Firewall of China.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZouA025",
+   "title": "Password Guessing Using Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/uss/ZouGW025",
+   "title": "PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/AyatiPCB25",
+   "title": "Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted Spectrograms' \"Typo\" Correction.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/DelvauxMRT24",
+   "title": "Breaking Espressif's ESP32 V3: Program Counter Control with Computed Values using Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "WOOT @ USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/woot24/presentation/delvaux",
+   "ord": "4",
+   "name": "Niek Timmers"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/DelvauxMRT24",
+   "title": "Breaking Espressif's ESP32 V3: Program Counter Control with Computed Values using Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "WOOT @ USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/woot24/presentation/delvaux",
+   "ord": "3",
+   "name": "Mario Romero"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/DelvauxMRT24",
+   "title": "Breaking Espressif's ESP32 V3: Program Counter Control with Computed Values using Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "WOOT @ USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/woot24/presentation/delvaux",
+   "ord": "2",
+   "name": "Cristofaro Mune"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/DelvauxMRT24",
+   "title": "Breaking Espressif's ESP32 V3: Program Counter Control with Computed Values using Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2024",
+   "venue": "WOOT @ USENIX Security Symposium",
+   "page": "https://www.usenix.org/conference/woot24/presentation/delvaux",
+   "ord": "1",
+   "name": "Jeroen Delvaux"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/HuberS25",
+   "title": "Be Write Back: An in-depth Study of Fault Injection Effects on FRAM Technology.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/KarlBJ025",
+   "title": "Comma Separated Vulnerabilities: Detecting Formula Injection in the Wild.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  },
+  {
+   "pub": "https://dblp.org/rec/conf/woot/LiuSS25",
+   "title": "GlitchGlück: Enabling Software Vulnerabilities through Guided Hardware Fault Injection.",
+   "type": "https://dblp.org/rdf/schema#Inproceedings",
+   "y": "2025"
+  }
+ ]
+}
